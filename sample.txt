@@ -1,0 +1,90 @@
+Sample Text for Processing Application
+This file contains a diverse set of text data designed for testing the various features of the Text Processing Pro application.
+
+Section 1: Standard Prose & Mixed Casing
+The quick brown fox, named Fox, jumps over the lazy dog. The dog, however, was not amused. It was a Sunday morning on 2025-10-12, a day like any other day. The FOX then decided to take a nap. Repetition is the key to mastery; repetition helps reinforce learning.
+
+Section 2: Contact Information & Web Data
+Here is a list of contacts and web links for the project:
+
+Emails:
+
+john.doe@example.com
+
+jane.smith@work-domain.co.uk
+
+contact-us@my-website.net
+
+invalid-email@.com
+
+user@sub.domain.org
+
+Phone Numbers (U.S. Format):
+
+(123) 456-7890
+
+987-654-3210
+
+123.456.7891
+
+555 123 4567
+
+URLs:
+
+https://www.google.com
+
+https://www.google.com/search?q=http://some-website.org/path/to/page.html
+
+https://en.wikipedia.org/wiki/Regular_expression
+
+ftp://fileserver.net (not http/https)
+
+Section 3: Technical & Log Data
+This section contains data for more advanced pattern matching.
+
+IP Addresses:
+
+192.168.1.1
+
+10.0.0.254
+
+255.255.255.0
+
+999.999.999.999 (Invalid IP)
+
+Server Log Entries:
+2025-10-11T23:59:59Z - 74.125.224.72 - "GET /home HTTP/1.1" 200 OK
+2025-10-12T00:15:30Z - 208.80.154.224 - "POST /api/data HTTP/1.1" 404 NOT_FOUND
+2025-10-12T01:33:00Z - 192.168.1.101 - "GET /login?user=admin HTTP/1.1" 200 OK
+Error: Failed to connect to database at 10.0.5.12.
+
+Section 4: Structured & Markup Data
+HTML Snippet:
+
+<div>
+<h1>Main Title</h1>
+<p>This is a paragraph with a <a href="https://example.com">link</a>.</p>
+<p>Another paragraph with <strong>strong</strong> text.</p>
+<!-- This is a comment -->
+</div>
+
+JSON Data:
+{
+"user": "johndoe",
+"id": 12345,
+"isActive": true,
+"roles": ["editor", "viewer"],
+"lastLogin": "2025-10-12T01:33:00Z"
+}
+
+Section 5: Edge Cases
+This line has leading whitespace.
+
+This line has trailing whitespace.
+
+This line has no extra space.
+
+This is a duplicate line.
+This is a duplicate line.
+This is a unique line.
+This is a duplicate line.
